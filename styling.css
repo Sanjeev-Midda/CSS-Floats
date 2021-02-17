@@ -1,0 +1,44 @@
+.block1 {
+border: 1px solid red;
+
+height: 50%;
+}
+
+.block2 {
+    border: 1px solid blue;
+    height: 100px;
+    width: 35%;
+    float: left;
+
+}
+
+.block3 {
+    border: 1px solid blue;
+float: right;
+width: 60%;
+height: 100px;
+}
+
+.block4 {
+    border: 1px solid green;
+    clear: both;
+
+height: 100px;
+}
+
+.container {
+    border: 1px solid aqua;
+clear:both;
+}
+
+.list-item {
+    border: 1px solid brown;
+    display:inline;
+    float:right;
+    width:20%;
+}
+
+h1 {
+    float:left;
+
+}
